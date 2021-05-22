@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\bin\Debug\net5.0\CadastroSeries_Filmes.exe
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\bin\Debug\net5.0\CadastroSeries_Filmes.deps.json
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\bin\Debug\net5.0\CadastroSeries_Filmes.runtimeconfig.json
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\bin\Debug\net5.0\CadastroSeries_Filmes.runtimeconfig.dev.json
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\bin\Debug\net5.0\CadastroSeries_Filmes.dll
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\bin\Debug\net5.0\ref\CadastroSeries_Filmes.dll
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\bin\Debug\net5.0\CadastroSeries_Filmes.pdb
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\obj\Debug\net5.0\CadastroSeries_Filmes.csprojAssemblyReference.cache
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\obj\Debug\net5.0\CadastroSeries_Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\obj\Debug\net5.0\CadastroSeries_Filmes.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\obj\Debug\net5.0\CadastroSeries_Filmes.AssemblyInfo.cs
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\obj\Debug\net5.0\CadastroSeries_Filmes.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\obj\Debug\net5.0\CadastroSeries_Filmes.dll
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\obj\Debug\net5.0\ref\CadastroSeries_Filmes.dll
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\obj\Debug\net5.0\CadastroSeries_Filmes.pdb
+C:\Users\User\Documents\Trabalho\BootCamps1 - Copia\CadastroSeries_Filmes\CadastroSeries_Filmes\obj\Debug\net5.0\CadastroSeries_Filmes.genruntimeconfig.cache
